@@ -31,7 +31,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "",
         "chunks": [
-          "app/page:app/page"
+          "app/about/page:app/about/page"
         ],
         "async": false
       },
@@ -39,7 +39,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "*",
         "chunks": [
-          "app/page:app/page"
+          "app/about/page:app/about/page"
         ],
         "async": false
       },
@@ -47,7 +47,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "default",
         "chunks": [
-          "app/page:app/page"
+          "app/about/page:app/about/page"
         ],
         "async": false
       }
@@ -181,6 +181,58 @@ self.__RSC_MANIFEST={
         ],
         "async": false
       }
+    },
+    "(app-client)/./app/signin/page.tsx": {
+      "": {
+        "id": "(sc_client)/./app/signin/page.tsx",
+        "name": "",
+        "chunks": [
+          "app/signin/page:app/signin/page"
+        ],
+        "async": false
+      },
+      "*": {
+        "id": "(sc_client)/./app/signin/page.tsx",
+        "name": "*",
+        "chunks": [
+          "app/signin/page:app/signin/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/signin/page.tsx",
+        "name": "default",
+        "chunks": [
+          "app/signin/page:app/signin/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./app/signin/ProvidersWrapper.tsx": {
+      "": {
+        "id": "(sc_client)/./app/signin/ProvidersWrapper.tsx",
+        "name": "",
+        "chunks": [
+          "app/signin/layout:app/signin/layout"
+        ],
+        "async": false
+      },
+      "*": {
+        "id": "(sc_client)/./app/signin/ProvidersWrapper.tsx",
+        "name": "*",
+        "chunks": [
+          "app/signin/layout:app/signin/layout"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/signin/ProvidersWrapper.tsx",
+        "name": "default",
+        "chunks": [
+          "app/signin/layout:app/signin/layout"
+        ],
+        "async": false
+      }
     }
   },
   "__edge_ssr_module_mapping__": {},
@@ -223,7 +275,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/page:app/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     },
@@ -231,7 +283,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/page:app/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     },
@@ -239,7 +291,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/page:app/page"
+        "app/about/page:app/about/page"
       ],
       "async": false
     }
@@ -388,6 +440,58 @@ self.__RSC_MANIFEST={
       "name": "default",
       "chunks": [
         "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "D:\\Block_landing\\Trizwit-BlockIoT\\app\\signin\\page.tsx": {
+    "": {
+      "id": "(app-client)/./app/signin/page.tsx",
+      "name": "",
+      "chunks": [
+        "app/signin/page:app/signin/page"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./app/signin/page.tsx",
+      "name": "*",
+      "chunks": [
+        "app/signin/page:app/signin/page"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./app/signin/page.tsx",
+      "name": "default",
+      "chunks": [
+        "app/signin/page:app/signin/page"
+      ],
+      "async": false
+    }
+  },
+  "D:\\Block_landing\\Trizwit-BlockIoT\\app\\signin\\ProvidersWrapper.tsx": {
+    "": {
+      "id": "(app-client)/./app/signin/ProvidersWrapper.tsx",
+      "name": "",
+      "chunks": [
+        "app/signin/layout:app/signin/layout"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./app/signin/ProvidersWrapper.tsx",
+      "name": "*",
+      "chunks": [
+        "app/signin/layout:app/signin/layout"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./app/signin/ProvidersWrapper.tsx",
+      "name": "default",
+      "chunks": [
+        "app/signin/layout:app/signin/layout"
       ],
       "async": false
     }

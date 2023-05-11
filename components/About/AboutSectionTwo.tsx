@@ -255,7 +255,7 @@ const AboutSectionTwo = () => {
         </div>
       </div>
 
-      <div className="flex flex-wrap justify-center">
+  
   <div className="xl:w-1/3 md:w-1/2 p-4">
     <div className="p-6">
       <div className="w-16 h-16 inline-flex items-center justify-center rounded-full bg-indigo-100 text-indigo-500 mb-4">
@@ -265,7 +265,7 @@ const AboutSectionTwo = () => {
       <p className="leading-relaxed text-base">You can choose from multiple dashboard themes, including an Electric Vehicle dashboard and a Home Automation dashboard, to customize your IoT dashboard to your preferences.</p>
     </div>
   </div>
-</div>
+
 
     </div>
    

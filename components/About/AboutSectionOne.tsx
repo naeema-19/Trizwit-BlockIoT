@@ -60,7 +60,7 @@ const AboutSectionOne = () => {
                 data-wow-delay=".2s"
               >
                 <Image
-                  src="/images/about/abtnew.jpg"
+                  src="/images/about/heron.png"
                   alt="about-image"
                   fill
                   className="mx-auto max-w-full lg:mr-0 object-cover object-center rounded-md"
