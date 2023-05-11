@@ -3,10 +3,6 @@ self.__RSC_CSS_MANIFEST={
     "D:\\Block_landing\\Trizwit-BlockIoT\\app\\page": [
       "D:\\Block_landing\\Trizwit-BlockIoT\\node_modules\\react-modal-video\\css\\modal-video.css",
       "D:\\Block_landing\\Trizwit-BlockIoT\\styles\\index.css"
-    ],
-    "D:\\Block_landing\\Trizwit-BlockIoT\\app\\signin\\page": [
-      "D:\\Block_landing\\Trizwit-BlockIoT\\node_modules\\react-modal-video\\css\\modal-video.css",
-      "D:\\Block_landing\\Trizwit-BlockIoT\\styles\\index.css"
     ]
   },
   "D:\\Block_landing\\Trizwit-BlockIoT\\app\\page.tsx": [
